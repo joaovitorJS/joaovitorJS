@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# João Vitor de Oliveira
+### 19 years
+### computer science student - UEMS - Dourados-MS
