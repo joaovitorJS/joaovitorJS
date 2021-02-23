@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# João Vitor de Oliveira, 19 years :fire: 👨🏻‍💻
-____________________________________________________________________________________________________________________________________________________________________
+# João Vitor de Oliveira, 19 years 👨🏻
 
 ## Studying
- 🎓 Computer science - UEMS - Dourados-MS :round_pushpin:
- 💻 Studied stack: C/C++, HTML, CSS, Javascript
- 🎯 In progress: Javascrip-advanced, ReactJS
+ 🎓 Computer science - UEMS - Dourados-MS :round_pushpin: <br>
+ 💻 Studied stack: C/C++, HTML, CSS, Javascript <br>
+ 🎯 In progress: Javascrip-advanced, ReactJS <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Media
-____________________________________________________________________________________________________________________________________________________________________
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-85a886174/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
