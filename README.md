@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 # João Vitor de Oliveira
 ### 19 years
 ### computer science student - UEMS - Dourados-MS
+### Tecnologias Estudadas: C/C++, HTML, CSS, Javascript
+### Tecnologias em Estudo: Javascrip-Avançado, ReactJS
