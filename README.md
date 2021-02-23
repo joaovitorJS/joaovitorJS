@@ -22,9 +22,15 @@ Here are some ideas to get you started:
  💻 Studied stack: C/C++, HTML, CSS, Javascript <br>
  🎯 In progress: Javascrip-advanced, ReactJS <br>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorJS&theme=dracula)
 
 ## Social Media
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-85a886174/" target="_blank">
+ <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+&nbsp;
+<a href="mailto:rgm38342@comp.uems.br">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-85a886174/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:rgm38342@comp.uems.br)
+
