@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 
 ## Social Media
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-85a886174/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-85a886174/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:rgm38342@comp.uems.br)
