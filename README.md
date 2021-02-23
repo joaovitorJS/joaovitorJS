@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  🎓 Computer science - UEMS - Dourados-MS :round_pushpin: <br>
  💻 Studied stack: C/C++, HTML, CSS, Javascript <br>
  🎯 In progress: Javascrip-advanced, ReactJS <br>
-
+ <br>
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorJS&theme=dracula)
 
 ## Social Media
