@@ -22,9 +22,9 @@ Here are some ideas to get you started:
  💻 Studied stack: C/C++, HTML, CSS, Javascript <br>
  🎯 In progress: Javascrip-advanced, ReactJS <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 
 ## Social Media
 
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-85a886174/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:rgm38342@comp.uems.br)
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-85a886174/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:rgm38342@comp.uems.br)
