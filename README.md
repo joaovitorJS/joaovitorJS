@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# João Vitor de Oliveira, 20 years 👨🏻
+# João Vitor de Oliveira, 21 years 👨🏻
 
 ## Studying
  🎓 Computer science - UEMS - Dourados-MS :round_pushpin: <br>
