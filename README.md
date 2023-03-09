@@ -1,26 +1,11 @@
-
-
-<!--
-**joaovitorJS/joaovitorJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # João Vitor de Oliveira, 22 years 👨🏻
 
-## Studying
- 🎓 Computer science - UEMS - Dourados-MS :round_pushpin: <br>
- 💻 Studied stack: C/C++, HTML, CSS, Javascript, ReactJS, NodeJS <br>
- 🎯 In progress: Clean Arch, TDD <br>
+## Developer full-stack
+ 🎓 Computer science - UEMS - Dourados-MS - Completed in december 2022 :round_pushpin: <br>
+ 💻 Studied stack: C/C++, HTML, CSS, Javascript, ReactJS, NodeJS, Laravel <br>
+ 🎯 Reading: Clean Arch - Uncle Bob <br>
+ 
+ 🔨 Working at Gênesis Tecnologia e Inovação
  <br>
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorJS&theme=dracula)
 
